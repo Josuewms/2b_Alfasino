@@ -1,0 +1,11 @@
+body {
+    background-color: beige;
+}
+
+.navbar-brand img {
+    width: 150px;
+}
+
+.carousel-item active img {
+    width: 600px;
+}
